@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java and my Master's degree in Automation
 - 💞️ I’m looking to collaborate on GitHub can improve my coding skill and myself
-- 📫 How to reach me 799184826@qq.com or 2112304411@mail2.gdut.edu.cn;
+- 📫 How to reach me 2112304411@mail2.gdut.edu.cn;
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
